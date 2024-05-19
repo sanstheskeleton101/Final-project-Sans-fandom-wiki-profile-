@@ -3,3 +3,14 @@
   width: 400px;
 }
 
+body {
+  background-color: black; 
+}
+
+p{
+  color: white;
+}
+
+h5{
+  color: white;
+}
