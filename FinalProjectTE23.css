@@ -1,8 +1,8 @@
 #sansgasterfloat{
-  height:220px;
-  width:400px;
+  height: 220px;
+  width: 400px;
 }
 
 .holyone {
-  flex-wrap:nowrap;
+  flex-direction: row;
 }
