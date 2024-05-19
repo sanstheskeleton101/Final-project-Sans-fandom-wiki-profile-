@@ -1,5 +1,6 @@
 .sansgasterfloat{
-  justify-content:flex-end;
+  display:flex;
+  justify-content:end;
   height:50px;
   width:50px;
 }
