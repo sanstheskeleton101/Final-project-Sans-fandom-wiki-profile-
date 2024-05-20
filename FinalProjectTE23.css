@@ -4,22 +4,25 @@
   width: 400px;
 } 
 
-body{
-  background: https://pm1.narvii.com/6129/cb3cfcfd22c359f6752caa823086344007523d73_hq.jpg;
-  opacity: 3;
-}
 
 
 p3{
   color: white;
   background-color: black;
+  border: solid 15px dark blue;
+} 
+
+body{
+  background-image: url(https://wallpapercave.com/wp/wp2788060.png);
 }
+
 
 
 
 h1{
   color: white;
   background-color: black;
+  border: solid 15px dark blue;
 }
 
 
