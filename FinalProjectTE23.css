@@ -1,5 +1,4 @@
 #sansgasterfloat{
-  border: solid 15px  lightblue;
   height: 220px;
   width: 400px;
 } 
@@ -18,11 +17,14 @@ body{
 
 supermanman{
   Display: flex;
+  justify-content: flex-end;
+  height: 220px;
+  width: 400px;
+  border: solid 15px  lightblue;
   
 }
 
 batmanman{
-  border: solid 15px  lightblue;
   height: 220px;
   width: 400px; 
 }
